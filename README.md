@@ -4,6 +4,8 @@
 # jai-mode
 > Emacs major mode for the nameless language being developed by Jonathan Blow
 
+[![CI](https://github.com/elp-revive/jai-mode/actions/workflows/test.yml/badge.svg)](https://github.com/elp-revive/jai-mode/actions/workflows/test.yml)
+
 ## 🛠️ Contribute
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
