@@ -6,6 +6,7 @@
 ;; Author: Kristoffer Grönlund <k@ziran.se>
 ;; Maintainer: Jen-Chieh Shen <jcs090218@gmail.com>
 ;; URL: https://github.com/elp-revive/jai-mode
+;; Version: 0.1.0
 ;; Package-Requires: ((emacs "26.1"))
 ;; Keywords: languages
 
