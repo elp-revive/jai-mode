@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "jai-mode"
          "0.1.0"
          "Major mode for JAI")
